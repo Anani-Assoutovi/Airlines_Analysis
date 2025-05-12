@@ -1,10 +1,11 @@
 
 # Flight Delay and Performance Analysis of U.S. Airline Carriers
 
-**Author:** Anani A.  
-**Affiliation:** Independent Researcher / Data Analyst  
-**Email:** anani@example.com  
-**Date:** May 12, 2025
+**Author:** Anani A. Assoutovi  
+**Affiliation:** Independent Researcher / Data Scientist  
+**Email:** booking.helices4s@icloud.com  
+**LinkedIn:** www.linkedin.com/in/ananiassoutovi  
+**Date:** May 11, 2025  
 
 ---
 
